@@ -1,8 +1,5 @@
 # AndroCar-1.0
-<html>
-  <body>
-    <h2> <font color="red"> Project still in Pre-Alpha version 1.5 </font></h2>
-  </body>
-</html>
+ <h2> Project still in Pre-Alpha version 1.5</h2>
+
 
 
